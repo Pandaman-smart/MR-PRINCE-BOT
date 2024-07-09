@@ -20,7 +20,7 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['23273778603'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -63,7 +63,7 @@ global.APIKeys = { // APIKey Here
 global.imagen1 = fs.readFileSync("./Assets/menus/Menu.png")
 global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
 global.imagen3 = fs.readFileSync("./Assets/menus/Menu2.jpg")
-global.imagen4 = fs.readFileSync("./Assets/menus/Menu3.jpg")
+global.imagen4 = fs.readFileSyncu("./Assets/menus/Menu3.jpg")
 global.imagen5 = fs.readFileSync("./Assets/menus/img2.jpg")
 global.imagen6 = fs.readFileSync("./Assets/menus/img5.jpg")
 global.imagen7 = fs.readFileSync("./Assets/menus/img6.jpg")
